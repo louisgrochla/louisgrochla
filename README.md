@@ -1,4 +1,3 @@
-[github-profile-README.md](https://github.com/user-attachments/files/28019392/github-profile-README.md)
 ### Hi, I'm Louis 👋
 
 I'm a final-year **BA (Hons) Digital Marketing & Business Analytics** student at **Robert Gordon University** (Aberdeen, UK), heading into my honours year in September. I'm applying to **MS Data Science** programs in the US for autumn 2027.
