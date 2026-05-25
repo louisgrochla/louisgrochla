@@ -16,6 +16,14 @@ The interesting part for me as a DS-track student: the system has its own data l
 
 ---
 
+#### 📊 Recent portfolio work
+
+**[ds-llm-judge-vs-small-model](https://github.com/louisgrochla/ds-llm-judge-vs-small-model)** — *when does a fine-tuned in-house classifier beat the frontier LLM?* A real benchmark on Banking77: in-house DistilBERT matches Claude Sonnet 4.6 at **n=2,500 labeled examples**, peaks at macro-F1 = 0.934 at n=9,000 — at **~750× lower cost per query** and **~50× faster latency**. Includes an [interactive build-vs-buy calculator](https://louisgrochla.github.io/ds-llm-judge-vs-small-model/) for teams currently paying for LLM API classification. Python / Transformers / Gradio.
+
+The methodology piece I'd point a recruiter at first: the first sweep with conservative defaults hit macro-F1 = 0.77 — well below the LLM. Diagnosed the issue (model had converged at the conservative LR; std=0.009 confirmed it), made four targeted hyperparameter changes, retuned. Same model, same data: 0.93. The "diagnose → fix → verify" loop in a clean form.
+
+---
+
 #### 📊 What I'm focused on technically
 
 - **Applied ML / data science** — currently strongest in classical ML, EDA, statistical inference; building toward deeper DL + causal inference for grad school
@@ -34,7 +42,7 @@ Machine Learning · Business Intelligence · Software Design & Development · Da
 #### 📈 What's next
 
 - Honours dissertation (4th year) — pitching it toward an ML / NLP application of the work I'm already doing at salespatch
-- A small portfolio of focused data science projects landing here over the next 6–8 weeks (statistical analysis, an end-to-end ML system, an LLM evaluation harness, a reproduction of a recent paper)
+- Additional DS portfolio projects in the pipeline (LLM eval harness extracted from salespatch, end-to-end ML system with FastAPI deploy, paper reproduction)
 - UK grad-year DS/ML applications open October 2026 — that's the immediate focus
 - US MS Data Science applications follow in autumn 2027, for autumn 2028 entry
 
