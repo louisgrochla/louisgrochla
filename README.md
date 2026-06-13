@@ -23,7 +23,7 @@ The part I'd point a recruiter at: the first sweep stalled at F1 0.77. I diagnos
 
 ### [salespatch](https://github.com/louisgrochla/salespatch) — multi-agent LLM platform (closed beta, Aberdeen)
 
-Nine LLM agents research a UK independent business, decode its brand, generate a personalised demo website, QA it, and route the lead — before anyone walks into the shop. Live since May 2026: **5 salespeople in the field, 40+ bespoke demos for real businesses, 200+ test demos** held back as training data. A data layer (NERVE) captures every outcome, so LLM stages can later be swapped for fine-tuned critic models — a system that collects its own training data as it runs.
+Nine LLM agents research a UK independent business, decode its brand, generate a personalised demo website, QA it, and route the lead — before anyone walks into the shop. Live since May 2026: **5 salespeople in the field, 40+ bespoke demos for real businesses (10 now paying clients), 200+ test demos** held back as training data. A data layer (NERVE) captures every outcome, so LLM stages can later be swapped for fine-tuned critic models — a system that collects its own training data as it runs.
 
 `TypeScript` · `Next.js` · `Python` · `Supabase Postgres` · `Stripe Connect` · [live metrics](https://nerve.salespatch.co.uk)
 
