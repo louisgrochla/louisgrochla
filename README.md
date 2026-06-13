@@ -26,10 +26,10 @@ The methodology piece I'd point a recruiter at first: the first sweep with conse
 
 #### 📊 What I'm focused on technically
 
-- **Applied ML / data science** — currently strongest in classical ML, EDA, statistical inference; building toward deeper DL + causal inference for grad school
+- **Applied ML / data science** — strongest in classical ML, EDA, and statistical inference, with hands-on transformer fine-tuning (the LLM-judge study below); building toward deeper DL + causal inference for grad school
 - **LLM engineering** — agent orchestration, evaluation harnesses, prompt regression testing, retrieval
 - **Full-stack delivery** — Next.js, TypeScript, Python, SQL (Postgres + SQLite), light DevOps
-- **Tools I reach for:** pandas, scikit-learn, PyTorch (learning), TypeScript, Next.js, Prisma, Supabase
+- **Tools I reach for:** pandas, scikit-learn, PyTorch, Hugging Face Transformers, TypeScript, Next.js, Prisma, Supabase
 
 ---
 
