@@ -55,4 +55,4 @@ Machine Learning · Business Intelligence · Software Design & Development · Da
 
 ---
 
-<sub>Based in Aberdeen, Scotland. Building DS portfolio projects ahead of UK grad-year DS/ML applications opening October 2026.</sub>
+<sub>Based in Aberdeen, Scotland. Building DS/ML portfolio projects</sub>
